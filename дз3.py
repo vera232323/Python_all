@@ -71,4 +71,4 @@ def zadacha3():
                 phrase_dictionary = set_phrase_lest()
         if phrase == 'разговор оконен' or phrase == 'все понятно':
             start_dialog = False
-zadacha3()
+# zadacha3()
